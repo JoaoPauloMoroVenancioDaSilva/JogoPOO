@@ -67,7 +67,7 @@ public class Jogo {
             System.out.println("\nEscolha uma opção:");
             System.out.println("1. Atacar");
             System.out.println("2. Defender");
-            System.out.println("3. Usar Item");
+            System.out.println("3. Usar Item (Não implementada)");
             System.out.println("4. Usar Habilidade");
 
             int acao = scanner.nextInt();
@@ -150,7 +150,7 @@ public class Jogo {
             System.out.println("\nEscolha uma opção:");
             System.out.println("1. Atacar");
             System.out.println("2. Defender");
-            System.out.println("3. Usar Item");
+            System.out.println("3. Usar Item (Não implementada)");
             System.out.println("4. Usar Habilidade");
 
             int acao = scanner.nextInt();
@@ -245,7 +245,7 @@ public class Jogo {
             System.out.println("\nEscolha uma opção:");
             System.out.println("1. Atacar");
             System.out.println("2. Defender");
-            System.out.println("3. Usar Item");
+            System.out.println("3. Usar Item (Não implementada)");
             System.out.println("4. Usar Habilidade");
 
             int acao = scanner.nextInt();
