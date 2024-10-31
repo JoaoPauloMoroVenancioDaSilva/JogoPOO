@@ -52,7 +52,7 @@ public class Espadachim extends Personagem{
     @Override
     public void EscolherHabilidade(){
         System.out.println("Escolha uma habilidade: " +
-                "1. Corte Rápido (AP=10)    |     2. Lâmina Sanguinária (AP=50)" +
+                "1. Corte Rápido (AP=10) (Não implementada)   |     2. Lâmina Sanguinária (AP=50)" +
                 " ");
     }
 
