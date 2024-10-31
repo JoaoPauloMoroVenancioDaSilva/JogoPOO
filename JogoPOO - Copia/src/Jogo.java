@@ -320,6 +320,7 @@ public class Jogo {
                 break;
             }
 
+            Jack.normalizarAtaque();
             Jack.normalizarDefesa();
         }
 
